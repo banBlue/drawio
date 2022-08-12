@@ -1,0 +1,55 @@
+<mxfile host="65bd71144e">
+    <diagram id="Lx-wdBWdLoO6keHzLwRI" name="第 1 页">
+        <mxGraphModel dx="1673" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;personality&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;n:性格&lt;/font&gt;&lt;/font&gt;" tooltip="21" id="4">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="-490" y="230" width="90" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;tend to&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;趋向;注意;有...的倾向&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" tooltip="21" id="HOR5NcwwxH8r1fLujQBN-15">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="-610" y="370" width="110" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;calm&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;adj;镇静的&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" tooltip="21" id="HOR5NcwwxH8r1fLujQBN-16">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="-780" y="490" width="90" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;shock&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;n:令人震惊的事&lt;/font&gt;&lt;/font&gt;" tooltip="21" id="HOR5NcwwxH8r1fLujQBN-17">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="-570" y="560" width="120" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;anxiety&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;n:表现焦虑&lt;/font&gt;&lt;/font&gt;" tooltip="21" id="HOR5NcwwxH8r1fLujQBN-18">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="-790" y="200" width="90" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;twist&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;n:使弯曲&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" tooltip="21" id="HOR5NcwwxH8r1fLujQBN-20">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="-620" y="100" width="90" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;occupy&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;v:使用&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" tooltip="21" id="HOR5NcwwxH8r1fLujQBN-21">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="-370" y="440" width="90" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;comfort&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;n:舒服&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" tooltip="21" id="HOR5NcwwxH8r1fLujQBN-22">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="-280" y="130" width="90" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;gain&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;n:获得&lt;/font&gt;&lt;/font&gt;" tooltip="21" id="HOR5NcwwxH8r1fLujQBN-23">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="-300" y="320" width="90" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
