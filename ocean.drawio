@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="ttYuPCzGJ3HdLokVk0_G" name="第 1 页">
-        <mxGraphModel dx="564" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="564" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -93,6 +93,12 @@
                 </mxCell>
                 <mxCell id="33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;thoughts&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;想法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="390" y="1260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;timing&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#330000&quot;&gt;&lt;br&gt;时机&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="1380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;traveling&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;旅行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="1390" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
