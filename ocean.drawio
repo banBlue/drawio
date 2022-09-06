@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="ttYuPCzGJ3HdLokVk0_G" name="第 1 页">
-        <mxGraphModel dx="1863" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1476" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -168,6 +168,12 @@
                 </mxCell>
                 <mxCell id="59" value="&lt;font style=&quot;font-size: 14px&quot;&gt;solution&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;解决问题的办法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="900" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;font style=&quot;font-size: 14px&quot;&gt;prompt&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;促使/提示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="910" y="1754" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="&lt;font style=&quot;font-size: 14px&quot;&gt;trust&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;信任&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1150" y="1680" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
