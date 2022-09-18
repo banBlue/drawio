@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="ttYuPCzGJ3HdLokVk0_G" name="第 1 页">
-        <mxGraphModel dx="1706" dy="431" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1391" dy="431" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -101,7 +101,7 @@
                     <mxGeometry x="240" y="1390" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="36" value="&lt;font style=&quot;font-size: 14px&quot;&gt;courage&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;鼓励&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="1530" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="170" y="1520" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" value="&lt;font style=&quot;font-size: 14px&quot;&gt;partly&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;部分地&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="450" y="1550" width="120" height="60" as="geometry"/>
@@ -238,23 +238,26 @@
                 <mxCell id="83" value="&lt;font style=&quot;font-size: 14px&quot;&gt;thoughtful&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;深思的，体贴的&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="840" y="2350" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="84" value="&lt;font style=&quot;font-size: 14px&quot;&gt;hit&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;打、击打&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="84" value="&lt;font style=&quot;font-size: 14px&quot;&gt;hit&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;打、击打&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="360" y="2390" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="85" value="&lt;font style=&quot;font-size: 14px&quot;&gt;distrust&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;不信任&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="85" value="&lt;font style=&quot;font-size: 14px&quot;&gt;distrust&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;不信任&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1000" y="2110" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="86" value="&lt;font style=&quot;font-size: 14px&quot;&gt;integrated&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;综合的&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="86" value="&lt;font style=&quot;font-size: 14px&quot;&gt;integrated&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;综合的&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1040" y="2250" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="87" value="&lt;font style=&quot;font-size: 14px&quot;&gt;conference&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;会议&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="87" value="&lt;font style=&quot;font-size: 14px&quot;&gt;conference&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;会议&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1040" y="2370" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="88" value="&lt;font style=&quot;font-size: 14px&quot;&gt;survey&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;民意调查&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="88" value="&lt;font style=&quot;font-size: 14px&quot;&gt;survey&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;民意调查&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="570" y="2430" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="89" value="&lt;font style=&quot;font-size: 14px&quot;&gt;discuss&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;讨论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="89" value="&lt;font style=&quot;font-size: 14px&quot;&gt;discuss&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;讨论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="770" y="2470" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="&lt;font style=&quot;font-size: 14px&quot;&gt;fact&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;事实&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="1590" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
