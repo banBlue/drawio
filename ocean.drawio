@@ -373,6 +373,9 @@
                 <mxCell id="129" value="&lt;font style=&quot;font-size: 14px&quot;&gt;more than&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;多于&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="290" y="3250" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="130" value="&lt;font style=&quot;font-size: 14px&quot;&gt;tempered&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#330000&quot;&gt;坏脾气&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="3400" width="120" height="60" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
